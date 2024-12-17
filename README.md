@@ -85,7 +85,7 @@ No ano de **2145**, a humanidade enfrenta tensões intergaláticas. Facções mi
 Adicione aqui capturas de tela e gifs do jogo em ação!
 
 ### **Menu Principal:**
-![Menu Principal](link_da_imagem_menu_principal)
+![Menu Principal](https://github.com/user-attachments/assets/18c36b91-c806-4f42-8d1a-d8d61e1dc400)
 
 ### **Fase de Combate:**
 ![Fase de Combate](link_da_imagem_fase_combate)
