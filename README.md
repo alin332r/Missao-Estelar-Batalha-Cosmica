@@ -87,11 +87,14 @@ Adicione aqui capturas de tela e gifs do jogo em ação!
 ### **Menu Principal:**
 ![Menu Principal](https://github.com/user-attachments/assets/18c36b91-c806-4f42-8d1a-d8d61e1dc400)
 
+
 ### **Fase de Combate:**
-![Fase de Combate](link_da_imagem_fase_combate)
+![missa estelar - movimento](https://github.com/user-attachments/assets/6bb9a5c3-4349-4c06-b08d-267903b2cb86)
+
 
 ### **Game Over:**
-![Tela de Game Over](link_da_imagem_game_over)
+![missao estelar - gamer over](https://github.com/user-attachments/assets/1b0dc479-a045-4758-b704-3b9e25455428)
+
 
 ---
 
