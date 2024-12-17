@@ -80,7 +80,7 @@ No ano de **2145**, a humanidade enfrenta tensões intergaláticas. Facções mi
 
 ---
 
-## **🔊 Galeria de Imagens**
+## **🖼️ Galeria de Imagens**
 
 Adicione aqui capturas de tela e gifs do jogo em ação!
 
